@@ -1,0 +1,2 @@
+FLASK_APP=wishes.py
+FLASK_DEBUG=1
